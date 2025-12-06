@@ -3,7 +3,7 @@
 
 I transform complex problems into scalable digital solutions. Specialized in **rapid MVP development**, **SaaS architecture**, and high-impact systems using modern web technologies.
 
-- 🔭 **Currently working on:** Building [RunaFit](https://github.com/maxiipadilladev), a SaaS platform for Gym Management using React & Supabase.
+- 🔭 **Currently working on:** Building [RunaFit](https://github.com/maxiipadilladev/Runafit), a SaaS platform for Gym Management using React & Supabase.
 - 🤝 **Open to:** Full-time Remote opportunities (Full Stack / Frontend).
 - ⚡ **Superpower:** I turn ideas into functional prototypes in record time.
 
