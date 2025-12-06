@@ -36,13 +36,3 @@ I transform complex problems into scalable digital solutions. Specialized in **r
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxiipadilladev&show_icons=true&theme=radical&hide_border=true" alt="Maxi's Github Stats" />
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=maxiipadilladev&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/maxiipadilladev)
