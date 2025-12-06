@@ -1,4 +1,4 @@
-### Hola, soy Maxi Padilla 👋
+### Hola, soy Maximiliano Padilla 👋
 **Full Stack Developer | Product Architect | Innovation Strategist**
 
 Transformo problemas complejos en soluciones digitales escalables. Especializado en construir MVPs rápidos y sistemas de alto impacto.
