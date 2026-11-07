@@ -27,7 +27,7 @@ Specialized in **SaaS architecture**, **B2B automation** and **high-impact syste
 | Award / Role | Description |
 |:--|:--|
 | 🎖️ **Official Local Lead (Director)** | NASA Space Apps Challenge 2026 (SDE) — appointed to direct the largest global tech hackathon in the province. |
-| 🥈 **2nd Place National** | NASA Space Apps Challenge 2025 — *LEGION ALFA*: modular waste recycling design for a Mars simulated mission. |
+| 🥈 **2nd Place San Juan** | NASA Space Apps Challenge 2025 — *LEGION ALFA*: modular waste recycling design for a Mars simulated mission. |
 | 🥇 **1st Place (Social Impact)** | Latin American Innovation Rally 2025 — *Alerta Tierra*. |
 
 ---
